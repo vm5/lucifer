@@ -1,0 +1,8 @@
+.wrapper {
+  background-image: url("https://images6.alphacoders.com/752/752073.jpg"); /* Background image */
+  background-size: cover;  /* Ensures the image covers the entire element */
+  background-position: center;  /* Centers the image */
+  background-repeat: no-repeat;  /* Prevents the image from repeating */
+  width: 100%;  /* Full width */
+  height: 100vh;  /* Full height of the viewport */
+}
